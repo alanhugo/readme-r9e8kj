@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alanhugo.github.io/readme-r9e8kj/sitemap.xml
